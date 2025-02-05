@@ -16,8 +16,8 @@
    ```bash
    git clone https://github.com/Nirav1024/leaderboard_system.git
   
-2. **Create Migration For Set up data base and Table:**
-    change name : .env.example to .env
+2. **Change filename:** <br>
+    .env.example to .env
 
 3. **Create Migration For Set up data base and Table:**
     ```bash
