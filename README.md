@@ -9,16 +9,22 @@
 
    ```bash
    git clone https://github.com/Nirav1024/leaderboard_system.git
+   
   
 2. **Change filename:** <br>
     .env.example to .env
 
-3. **Create Migration For Set up data base and Table:**
+
+3. **Install all the dependencies using composer:**
+    ```bash
+    composer install
+
+4. **Create Migration For Set up data base and Table:**
     ```bash
     php artisan migrate
     ```
 
-4. **Run Project:**
+5. **Run Project:**
       ```bash
     php artisan serve
     ```
